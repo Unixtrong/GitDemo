@@ -2,5 +2,5 @@ eieiei~~~alongalongalong~~~
 hahaha.
 
 public void onCreate() {
-
+    System.out.println("Hello world!")
 }
